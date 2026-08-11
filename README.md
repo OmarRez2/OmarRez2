@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/omar-rezk-70868b211/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://www.kaggle.com/omarrezk">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
 </p>
 
 ## About me
@@ -75,3 +78,4 @@
 ## Connect with me
 
 - LinkedIn: [omar-rezk-70868b211](https://www.linkedin.com/in/omar-rezk-70868b211/)
+- Kaggle: [omarrezk](https://www.kaggle.com/omarrezk)
