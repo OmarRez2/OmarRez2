@@ -63,17 +63,23 @@
       <p><strong>Tools:</strong> Power BI, SQL Server, Excel</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">What I focus on</h3>
-      <ul>
-        <li>Business-focused KPI design</li>
-        <li>Data cleaning and validation</li>
-        <li>Data modeling and DAX</li>
-        <li>SQL analysis</li>
-        <li>Clear dashboard storytelling</li>
-      </ul>
+      <h3 align="center"><a href="https://github.com/OmarRez2/Sales-Intelligence-Hub">Sales Intelligence Hub</a></h3>
+      <a href="https://github.com/OmarRez2/Sales-Intelligence-Hub">
+        <img src="https://raw.githubusercontent.com/OmarRez2/Sales-Intelligence-Hub/main/Screenshots/01-Landing.png" alt="Sales Intelligence Hub dashboard">
+      </a>
+      <p>End-to-end sales intelligence analysis covering $1.12M in sales, $392.7K in profit, 488 orders, customers, products, regions, and fulfillment.</p>
+      <p><strong>Tools:</strong> Power BI, SQL Server, Python, Excel</p>
     </td>
   </tr>
 </table>
+
+## What I focus on
+
+- Business-focused KPI design
+- Data cleaning and validation
+- Data modeling and DAX
+- SQL analysis
+- Clear dashboard storytelling
 
 ## Connect with me
 
