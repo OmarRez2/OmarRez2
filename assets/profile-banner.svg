@@ -1,81 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Omar Rezk - Data Analyst and BI Developer</title>
-  <desc id="desc">Professional dark blue banner with a subtly animated analytics chart.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Omar Rezk - Data and Business Intelligence Portfolio</title>
+  <desc id="desc">Animated dark portfolio banner with glowing analytics charts, KPI cards, and data nodes.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset="0.58" stop-color="#0b1c35"/>
-      <stop offset="1" stop-color="#102a45"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="0.55" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#34d399"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#7dd3fc" stroke-opacity="0.07" stroke-width="1"/>
-    </pattern>
-    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030712"/><stop offset="0.52" stop-color="#07162c"/><stop offset="1" stop-color="#151047"/></linearGradient>
+    <linearGradient id="cyanPurple" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.48" stop-color="#3b82f6"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <linearGradient id="chartFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.32"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+    <radialGradient id="orb"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.5"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#38bdf8" stroke-opacity="0.055"/></pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000814" flood-opacity="0.55"/></filter>
+    <clipPath id="frame"><rect width="1200" height="360" rx="26"/></clipPath>
   </defs>
-
-  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
-  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="298" rx="23" fill="none" stroke="#1e4b6f" stroke-width="2"/>
-
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="68" y="86" fill="#94a3b8" font-size="16" font-weight="600" letter-spacing="4">DATA • INSIGHT • IMPACT</text>
-    <text x="64" y="148" fill="#f8fafc" font-size="52" font-weight="700" letter-spacing="1">OMAR REZK</text>
-    <text x="67" y="186" fill="#7dd3fc" font-size="20" font-weight="600">Data Analyst  |  BI Analyst  |  Power BI Developer</text>
-    <text x="67" y="222" fill="#cbd5e1" font-size="17">Turning complex data into clear, decision-ready insights.</text>
-
-    <g transform="translate(67 246)" font-size="12" font-weight="700" letter-spacing="1">
-      <rect width="88" height="28" rx="7" fill="#f2c811"/>
-      <text x="44" y="19" fill="#111827" text-anchor="middle">POWER BI</text>
-      <rect x="100" width="95" height="28" rx="7" fill="#15395b" stroke="#38bdf8" stroke-opacity="0.65"/>
-      <text x="147.5" y="19" fill="#e0f2fe" text-anchor="middle">SQL SERVER</text>
-      <rect x="207" width="78" height="28" rx="7" fill="#15395b" stroke="#38bdf8" stroke-opacity="0.65"/>
-      <text x="246" y="19" fill="#e0f2fe" text-anchor="middle">PYTHON</text>
-      <rect x="297" width="70" height="28" rx="7" fill="#15395b" stroke="#34d399" stroke-opacity="0.65"/>
-      <text x="332" y="19" fill="#d1fae5" text-anchor="middle">EXCEL</text>
-    </g>
-  </g>
-
-  <g transform="translate(690 38)">
-    <rect width="445" height="222" rx="18" fill="#06101f" fill-opacity="0.55" stroke="#244b6d"/>
-    <text x="26" y="34" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">PERFORMANCE OVERVIEW</text>
-
-    <g transform="translate(25 55)">
-      <line x1="0" y1="130" x2="395" y2="130" stroke="#94a3b8" stroke-opacity="0.2"/>
-      <line x1="0" y1="90" x2="395" y2="90" stroke="#94a3b8" stroke-opacity="0.12"/>
-      <line x1="0" y1="50" x2="395" y2="50" stroke="#94a3b8" stroke-opacity="0.12"/>
-
-      <g fill="#1e3a5f">
-        <rect x="10" y="100" width="20" height="30" rx="3"><animate attributeName="y" values="100;92;100" dur="3.4s" repeatCount="indefinite"/><animate attributeName="height" values="30;38;30" dur="3.4s" repeatCount="indefinite"/></rect>
-        <rect x="52" y="82" width="20" height="48" rx="3"><animate attributeName="y" values="82;75;82" dur="3.8s" repeatCount="indefinite"/><animate attributeName="height" values="48;55;48" dur="3.8s" repeatCount="indefinite"/></rect>
-        <rect x="94" y="91" width="20" height="39" rx="3"><animate attributeName="y" values="91;84;91" dur="3.2s" repeatCount="indefinite"/><animate attributeName="height" values="39;46;39" dur="3.2s" repeatCount="indefinite"/></rect>
-        <rect x="136" y="62" width="20" height="68" rx="3"><animate attributeName="y" values="62;54;62" dur="3.6s" repeatCount="indefinite"/><animate attributeName="height" values="68;76;68" dur="3.6s" repeatCount="indefinite"/></rect>
-        <rect x="178" y="72" width="20" height="58" rx="3"><animate attributeName="y" values="72;66;72" dur="3.1s" repeatCount="indefinite"/><animate attributeName="height" values="58;64;58" dur="3.1s" repeatCount="indefinite"/></rect>
-        <rect x="220" y="48" width="20" height="82" rx="3"><animate attributeName="y" values="48;39;48" dur="3.9s" repeatCount="indefinite"/><animate attributeName="height" values="82;91;82" dur="3.9s" repeatCount="indefinite"/></rect>
-        <rect x="262" y="57" width="20" height="73" rx="3"><animate attributeName="y" values="57;51;57" dur="3.3s" repeatCount="indefinite"/><animate attributeName="height" values="73;79;73" dur="3.3s" repeatCount="indefinite"/></rect>
-        <rect x="304" y="30" width="20" height="100" rx="3"><animate attributeName="y" values="30;22;30" dur="3.7s" repeatCount="indefinite"/><animate attributeName="height" values="100;108;100" dur="3.7s" repeatCount="indefinite"/></rect>
-        <rect x="346" y="40" width="20" height="90" rx="3"><animate attributeName="y" values="40;34;40" dur="3.5s" repeatCount="indefinite"/><animate attributeName="height" values="90;96;90" dur="3.5s" repeatCount="indefinite"/></rect>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1110" cy="-35" r="245" fill="url(#orb)"><animate attributeName="r" values="225;260;225" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="630" cy="405" r="180" fill="#06b6d4" opacity="0.08"><animate attributeName="cx" values="610;690;610" dur="10s" repeatCount="indefinite"/></circle>
+    <path d="M720 -20C805 60 842 77 938 30S1110 40 1240 115" fill="none" stroke="#a855f7" stroke-opacity="0.16" stroke-width="2"/>
+    <path d="M700 -8C790 82 842 98 948 50S1120 62 1245 135" fill="none" stroke="#22d3ee" stroke-opacity="0.2" stroke-width="2"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <g transform="translate(58 39)"><rect width="184" height="30" rx="15" fill="#071c2d" stroke="#22d3ee" stroke-opacity="0.45"/><circle cx="18" cy="15" r="5" fill="#34d399" filter="url(#glow)"><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/></circle><text x="32" y="20" fill="#a7f3d0" font-size="11" font-weight="700" letter-spacing="1.1">OPEN TO OPPORTUNITIES</text></g>
+      <text x="58" y="127" fill="#f8fafc" font-size="59" font-weight="800" letter-spacing="1">OMAR REZK</text>
+      <rect x="59" y="146" width="405" height="4" rx="2" fill="url(#cyanPurple)"><animate attributeName="width" values="130;405;405" dur="2.8s" repeatCount="indefinite"/></rect>
+      <text x="59" y="188" fill="#67e8f9" font-size="22" font-weight="700">Data Analyst  /  BI Developer</text>
+      <text x="59" y="223" fill="#cbd5e1" font-size="17">I turn complex business data into clear,</text><text x="59" y="249" fill="#cbd5e1" font-size="17">decision-ready dashboards and insights.</text>
+      <g transform="translate(58 282)" font-size="11" font-weight="700" letter-spacing="0.7">
+        <g><rect width="91" height="32" rx="9" fill="#f2c811"/><text x="45.5" y="21" text-anchor="middle" fill="#111827">POWER BI</text></g>
+        <g transform="translate(102)"><rect width="100" height="32" rx="9" fill="#0b2941" stroke="#38bdf8" stroke-opacity="0.65"/><text x="50" y="21" text-anchor="middle" fill="#e0f2fe">SQL SERVER</text></g>
+        <g transform="translate(213)"><rect width="83" height="32" rx="9" fill="#0b2941" stroke="#60a5fa" stroke-opacity="0.65"/><text x="41.5" y="21" text-anchor="middle" fill="#dbeafe">PYTHON</text></g>
+        <g transform="translate(307)"><rect width="72" height="32" rx="9" fill="#0d2d2a" stroke="#34d399" stroke-opacity="0.65"/><text x="36" y="21" text-anchor="middle" fill="#d1fae5">EXCEL</text></g>
+        <g transform="translate(390)"><rect width="61" height="32" rx="9" fill="#241441" stroke="#a855f7" stroke-opacity="0.7"/><text x="30.5" y="21" text-anchor="middle" fill="#f3e8ff">DAX</text></g>
       </g>
-
-      <path id="trend" d="M20 105 C55 96 70 75 104 82 S152 53 188 64 S231 38 272 50 S320 20 366 29" fill="none" stroke="#38bdf8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 7">
-        <animate attributeName="stroke-dashoffset" from="45" to="0" dur="2.8s" repeatCount="indefinite"/>
-      </path>
-      <circle r="5" fill="#e0f2fe" filter="url(#softGlow)">
-        <animateMotion dur="5s" repeatCount="indefinite"><mpath href="#trend"/></animateMotion>
-      </circle>
-
-      <g font-family="Arial, Helvetica, sans-serif">
-        <text x="0" y="160" fill="#64748b" font-size="11">DATA QUALITY</text>
-        <text x="132" y="160" fill="#64748b" font-size="11">KPI DESIGN</text>
-        <text x="255" y="160" fill="#64748b" font-size="11">BUSINESS VALUE</text>
+    </g>
+    <g transform="translate(570 42)" filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+      <rect width="570" height="276" rx="22" fill="#06101f" fill-opacity="0.82" stroke="#334e74"/>
+      <circle cx="24" cy="22" r="4" fill="#fb7185"/><circle cx="39" cy="22" r="4" fill="#fbbf24"/><circle cx="54" cy="22" r="4" fill="#34d399"/>
+      <text x="85" y="27" fill="#94a3b8" font-size="11" font-weight="700" letter-spacing="1.4">LIVE BUSINESS OVERVIEW</text>
+      <rect x="477" y="13" width="70" height="20" rx="10" fill="#0b2c2c"/><circle cx="492" cy="23" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle><text x="504" y="27" fill="#6ee7b7" font-size="9" font-weight="700">ONLINE</text>
+      <g transform="translate(22 51)">
+        <g><rect width="160" height="65" rx="13" fill="#0b1930" stroke="#1d4e76"/><circle cx="27" cy="25" r="12" fill="#082f49"/><path d="M21 29V24M27 29V19M33 29V15" stroke="#22d3ee" stroke-width="3" stroke-linecap="round"/><text x="48" y="23" fill="#94a3b8" font-size="10">SALES MODELED</text><text x="48" y="48" fill="#f8fafc" font-size="22" font-weight="800">$1.12M</text></g>
+        <g transform="translate(171)"><rect width="160" height="65" rx="13" fill="#0b1930" stroke="#353068"/><circle cx="27" cy="25" r="12" fill="#27144b"/><path d="M21 26l5-5 4 3 6-8" fill="none" stroke="#c084fc" stroke-width="2.5"/><text x="48" y="23" fill="#94a3b8" font-size="10">TRIPS ANALYZED</text><text x="48" y="48" fill="#f8fafc" font-size="22" font-weight="800">103,728</text></g>
+        <g transform="translate(342)"><rect width="184" height="65" rx="13" fill="#0b1930" stroke="#175448"/><circle cx="27" cy="25" r="12" fill="#073c35"/><path d="M21 21h12v8H21zM24 18h6" fill="none" stroke="#34d399" stroke-width="2"/><text x="48" y="23" fill="#94a3b8" font-size="10">LOANS EVALUATED</text><text x="48" y="48" fill="#f8fafc" font-size="22" font-weight="800">38,576</text></g>
+      </g>
+      <g transform="translate(25 135)">
+        <text x="0" y="14" fill="#94a3b8" font-size="10" font-weight="700" letter-spacing="1">PERFORMANCE TREND</text>
+        <line x1="0" y1="106" x2="520" y2="106" stroke="#64748b" stroke-opacity="0.25"/><line x1="0" y1="71" x2="520" y2="71" stroke="#64748b" stroke-opacity="0.12"/><line x1="0" y1="36" x2="520" y2="36" stroke="#64748b" stroke-opacity="0.12"/>
+        <path d="M0 104C44 100 57 85 92 91S145 58 186 69 236 77 274 53 332 63 370 39 423 51 464 27 497 31 520 18V106H0Z" fill="#0ea5e9" fill-opacity="0.11"/>
+        <path id="heroTrend" d="M0 104C44 100 57 85 92 91S145 58 186 69 236 77 274 53 332 63 370 39 423 51 464 27 497 31 520 18" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 7" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="60;0" dur="3s" repeatCount="indefinite"/></path>
+        <circle r="5" fill="#fff" filter="url(#glow)"><animateMotion dur="5.5s" repeatCount="indefinite"><mpath href="#heroTrend"/></animateMotion></circle>
+        <g fill="#22d3ee"><circle cx="92" cy="91" r="4"><animate attributeName="r" values="4;7;4" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="274" cy="53" r="4"><animate attributeName="r" values="4;7;4" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="464" cy="27" r="4"><animate attributeName="r" values="4;7;4" dur="3.1s" repeatCount="indefinite"/></circle></g>
       </g>
     </g>
   </g>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="none" stroke="url(#cyanPurple)" stroke-opacity="0.45" stroke-width="2"/>
 </svg>

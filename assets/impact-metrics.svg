@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio impact metrics</title><desc id="desc">Four animated cards showing analytics portfolio scale.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b18"/><stop offset="1" stop-color="#0b1730"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#38bdf8" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="200" rx="22" fill="url(#bg)"/><rect width="1200" height="200" rx="22" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="38" y="37" fill="#94a3b8" font-size="12" font-weight="700" letter-spacing="2">PORTFOLIO IMPACT</text><rect x="38" y="49" width="1124" height="2" rx="1" fill="url(#accent)" opacity=".55"/>
+    <g transform="translate(38 69)">
+      <g><rect width="266" height="102" rx="15" fill="#0a172b" stroke="#22d3ee"><animate attributeName="stroke-opacity" values=".38;1;.38" dur="3.2s" repeatCount="indefinite"/></rect><circle cx="41" cy="39" r="22" fill="#083344"/><path d="M30 48V37m11 11V29m11 19V22" stroke="#22d3ee" stroke-width="4" stroke-linecap="round"/><text x="80" y="39" fill="#f8fafc" font-size="25" font-weight="800">$1.12M</text><text x="80" y="60" fill="#67e8f9" font-size="11" font-weight="700" letter-spacing="1">SALES MODELED</text><text x="20" y="88" fill="#64748b" font-size="10">Sales Intelligence Hub</text></g>
+      <g transform="translate(286)"><rect width="266" height="102" rx="15" fill="#0a172b" stroke="#3b82f6"><animate attributeName="stroke-opacity" values=".38;1;.38" dur="3.6s" repeatCount="indefinite"/></rect><circle cx="41" cy="39" r="22" fill="#102a56"/><path d="M30 42c8-16 15-16 23 0M32 31h18" fill="none" stroke="#60a5fa" stroke-width="3" stroke-linecap="round"/><text x="80" y="39" fill="#f8fafc" font-size="25" font-weight="800">103,728</text><text x="80" y="60" fill="#93c5fd" font-size="11" font-weight="700" letter-spacing="1">TRIPS ANALYZED</text><text x="20" y="88" fill="#64748b" font-size="10">Uber Trips Analytics</text></g>
+      <g transform="translate(572)"><rect width="266" height="102" rx="15" fill="#0a172b" stroke="#a855f7"><animate attributeName="stroke-opacity" values=".38;1;.38" dur="4s" repeatCount="indefinite"/></rect><circle cx="41" cy="39" r="22" fill="#2e1457"/><path d="M28 31h26v18H28zM34 26h14M35 38h12" fill="none" stroke="#c084fc" stroke-width="3" stroke-linecap="round"/><text x="80" y="39" fill="#f8fafc" font-size="25" font-weight="800">38,576</text><text x="80" y="60" fill="#d8b4fe" font-size="11" font-weight="700" letter-spacing="1">LOANS EVALUATED</text><text x="20" y="88" fill="#64748b" font-size="10">Bank Loan Portfolio</text></g>
+      <g transform="translate(858)"><rect width="266" height="102" rx="15" fill="#0a172b" stroke="#10b981"><animate attributeName="stroke-opacity" values=".38;1;.38" dur="4.4s" repeatCount="indefinite"/></rect><circle cx="41" cy="39" r="22" fill="#073b34"/><path d="M29 31h24l-3 20H32zm4-6h16" fill="none" stroke="#34d399" stroke-width="3" stroke-linejoin="round"/><text x="80" y="39" fill="#f8fafc" font-size="25" font-weight="800">21,350</text><text x="80" y="60" fill="#6ee7b7" font-size="11" font-weight="700" letter-spacing="1">ORDERS EXPLORED</text><text x="20" y="88" fill="#64748b" font-size="10">Pizza Sales Performance</text></g>
+    </g>
+  </g>
+</svg>
