@@ -58,12 +58,12 @@ I am a **Data Analyst and BI Developer** with 2+ years of experience translating
 <table>
   <tr>
     <td width="52%" valign="top">
-      <a href="https://github.com/OmarRez2/Power-BI-Finance-Analysis"><img src="https://raw.githubusercontent.com/OmarRez2/Power-BI-Finance-Analysis/main/analysis/preview.png" width="100%" alt="FinSight notebook analysis preview with finance KPIs, monthly trend, and top states" /></a>
+      <a href="https://github.com/OmarRez2/Power-BI-Finance-Analysis"><img src="https://raw.githubusercontent.com/OmarRez2/Power-BI-Finance-Analysis/main/assets/screenshots/02-overview.png" width="100%" alt="FinSight Power BI Overview Analysis dashboard with KPIs, trends, customer segments, and transaction status" /></a>
     </td>
     <td width="48%" valign="middle">
       <h3>FinSight · Finance Analysis</h3>
       <p><code>50,000 transactions</code> <code>5,000 customers</code> <code>85.74% success rate</code></p>
-      <p>A three-page Power BI experience for transaction activity and customer insights, supported by a reproducible Jupyter cleaning workflow and SQLite KPI views. The figures above use the full notebook-cleaned dataset.</p>
+      <p>A three-page Power BI experience for transaction activity and customer insights, supported by a reproducible Jupyter cleaning workflow and SQLite KPI views. The tags summarize the notebook-cleaned dataset; the dashboard preview follows the report's Power Query transformations.</p>
       <p><strong>Power BI · DAX · Power Query · Python · SQLite · PBIP/TMDL</strong></p>
       <p><a href="https://github.com/OmarRez2/Power-BI-Finance-Analysis"><strong>Explore case study →</strong></a></p>
     </td>
