@@ -1,153 +1,145 @@
 <p align="center">
-  <img src="assets/omar-analytics-banner.svg" width="100%" alt="Omar Rezk — Marketing Data Analyst and BI Developer. From business questions to clear decisions." />
+  <img src="assets/studio/header.svg" width="100%" alt="Hey, I'm Omar Rezk — Data Analyst, BI Developer and Educator." />
+  <img src="assets/studio/typing.svg" width="100%" alt="Marketing Data Analyst at Al Farouk. Exploring data and sharing knowledge." />
 </p>
 
 <p align="center">
-  <a href="https://omarrez2.github.io/"><strong>EXPLORE MY PORTFOLIO ↗</strong></a> &nbsp; · &nbsp;
-  <a href="#selected-projects">Projects</a> &nbsp; · &nbsp;
-  <a href="#experience">Experience</a> &nbsp; · &nbsp;
-  <a href="#lets-connect">Contact</a>
+  <a href="https://omarrez2.github.io/"><img src="assets/studio/button-portfolio.svg" width="170" alt="View portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omar-rezk-70868b211/"><img src="assets/studio/button-linkedin.svg" width="170" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/omarrezk"><img src="assets/studio/button-kaggle.svg" width="170" alt="Kaggle" /></a>
+  <a href="mailto:orezk337@gmail.com"><img src="assets/studio/button-email.svg" width="170" alt="Email Omar" /></a>
 </p>
 
-# Hi, I'm Omar.
+<p align="center">
+  <a href="#-a-little-about-me">About</a> ·
+  <a href="#-my-toolbox">Toolbox</a> ·
+  <a href="#-project-gallery">Projects</a> ·
+  <a href="#-where-i-work">Experience</a>
+</p>
 
-**Marketing Data Analyst at [Al Farouk Educational Services](https://www.linkedin.com/company/al-faroukedu/) · Power BI & SQL · Cairo, Egypt**
+<img src="assets/studio/divider.svg" width="100%" alt="" />
 
-I turn business questions into structured analysis, interactive dashboards, and practical recommendations. My work connects data preparation, SQL exploration, statistical analysis, and Power BI reporting—with the business decision always in view.
+## 🧑‍💻 A little about me
 
-At **Al Farouk**, I analyze marketing performance for educational course launches: track CTR and related campaign KPIs, query and prepare the data, and translate findings into insights for the marketing team.
+<img src="assets/studio/analyst.svg" align="right" width="240" alt="Animated illustration of SQL queries becoming dashboard insights." />
 
-[LinkedIn ↗](https://www.linkedin.com/in/omar-rezk-70868b211/) &nbsp; / &nbsp; [Kaggle ↗](https://www.kaggle.com/omarrezk) &nbsp; / &nbsp; [Email me ↗](mailto:orezk337@gmail.com) &nbsp; / &nbsp; [View CV ↗](https://omarrez2.github.io/documents/Omar-Mahmoud-Sophy-Rezk-CV.pdf)
+I'm **Omar Rezk**, a Data Analyst and BI Developer based in **Cairo, Egypt**. I enjoy finding the story behind the numbers—and making it useful.
 
-## Selected projects
+- 💼 **Marketing Data Analyst @ Al Farouk Educational Services**
+- 🎓 **Data Analysis Instructor @ eYouth**
+- 📊 I work with **Power BI, SQL, Python and Excel**.
+- 🔎 My focus: campaign performance, reliable reporting, and clear business insights.
+- 💬 I enjoy turning complex concepts into practical learning experiences.
 
-Real dashboard previews. Clear analytical questions. Code and case studies you can explore.
+**[Get to know me ↗](https://omarrez2.github.io/about/)** · **[View my CV ↗](https://omarrez2.github.io/documents/Omar-Mahmoud-Sophy-Rezk-CV.pdf)**
 
-### 01 / FinSight — Finance Analysis
+<br clear="both" />
 
-**How do transaction activity, customer segments, and payment statuses vary?**
+<img src="assets/studio/divider.svg" width="100%" alt="" />
 
-<a href="https://omarrez2.github.io/projects/finsight-finance-analysis/">
-  <img src="assets/projects/finsight.webp" width="100%" alt="FinSight Power BI overview: transaction KPIs, trends, customer segments and status breakdowns." />
-</a>
+## 🚀 My toolbox
 
-Three Power BI pages connect the overview to transaction detail. A separate Jupyter cleaning workflow and SQLite KPI views document the underlying analysis.
+<img src="assets/studio/toolkit.svg" width="100%" alt="Power BI, SQL Server, Python, Excel, DAX, Power Query, Pandas and Git." />
 
-`Power BI` `DAX` `Power Query` `Python` `SQLite`
+<p align="center">
+  <strong>Power BI · SQL Server · Python · Excel · DAX · Power Query · Pandas · Git</strong><br />
+  Data cleaning & validation · Statistical analysis · Data modeling · KPI reporting<br />
+  Marketing analytics · Dashboard design · PBIP / TMDL · Data storytelling
+</p>
 
-**[Read the case study ↗](https://omarrez2.github.io/projects/finsight-finance-analysis/)** &nbsp; · &nbsp; [Explore repository](https://github.com/OmarRez2/Power-BI-Finance-Analysis)
+<img src="assets/studio/divider.svg" width="100%" alt="" />
+
+## ✨ Project gallery
+
+<p align="center"><strong>From raw data to a business story.</strong><br />Select a project to explore the full case study, dashboards and code.</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://omarrez2.github.io/projects/finsight-finance-analysis/"><img src="assets/studio/project-finsight.svg" width="100%" alt="FinSight finance analysis — real Power BI dashboard preview." /></a>
+<h3>FinSight · Finance Analysis</h3>
+<p>Transaction activity, customer segments and payment statuses across a three-page Power BI report.</p>
+<p><strong>Power BI · Python · SQLite</strong></p>
+<p><a href="https://omarrez2.github.io/projects/finsight-finance-analysis/"><strong>Case study ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/OmarRez2/Power-BI-Finance-Analysis">Code ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://omarrez2.github.io/projects/sales-intelligence-hub/"><img src="assets/studio/project-sales.svg" width="100%" alt="Sales Intelligence Hub — real executive dashboard preview." /></a>
+<h3>Sales Intelligence Hub</h3>
+<p>Sales, profitability, customers, products and regional performance in a four-page BI experience.</p>
+<p><strong>Power BI · SQL Server · Python</strong></p>
+<p><a href="https://omarrez2.github.io/projects/sales-intelligence-hub/"><strong>Case study ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/OmarRez2/Sales-Intelligence-Hub">Code ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://omarrez2.github.io/projects/uber-trips-analytics/"><img src="assets/studio/project-uber.svg" width="100%" alt="Uber Trips Analytics — real trip overview dashboard preview." /></a>
+<h3>Uber Trips Analytics</h3>
+<p>Explore trip demand, booking value, locations and time patterns through five report pages.</p>
+<p><strong>Power BI · SQL Server · DAX</strong></p>
+<p><a href="https://omarrez2.github.io/projects/uber-trips-analytics/"><strong>Case study ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/OmarRez2/Uber">Code ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://omarrez2.github.io/projects/bank-loan-analysis/"><img src="assets/studio/project-bank-loan.svg" width="100%" alt="Bank Loan Portfolio — real lending summary dashboard preview." /></a>
+<h3>Bank Loan Portfolio</h3>
+<p>A three-page view of applications, funding, repayments, loan quality and borrower characteristics.</p>
+<p><strong>Power BI · SQL Server · T-SQL</strong></p>
+<p><a href="https://omarrez2.github.io/projects/bank-loan-analysis/"><strong>Case study ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/OmarRez2/Bank-Loan">Code ↗</a></p>
+</td>
+</tr>
+</table>
 
 <details>
-<summary>Data context and interpretation</summary>
+<summary><strong>🔍 More projects & data notes</strong></summary>
 
-The notebook-cleaned dataset covers January 2023–April 2026. The dashboard uses a separate Power Query cleaning policy: absolute amounts and imputed missing fees. The notebook preserves signed amounts and unknown fees, so totals differ. Transaction volume is not bank revenue.
+**Pizza Sales Performance:** product mix, demand patterns and peak sales periods. [Case study](https://omarrez2.github.io/projects/pizza-sales-performance/) · [Code](https://github.com/OmarRez2/Pizza-Sales-Project)
+
+**FinSight data context:** the notebook covers January 2023–April 2026. Power BI uses absolute transaction amounts and imputed missing fees; the notebook preserves signed amounts and unknown fees, so totals differ. Transaction volume is not bank revenue.
+
+Dashboard figures describe their project datasets, not claimed business impact.
 
 </details>
 
----
+<img src="assets/studio/divider.svg" width="100%" alt="" />
 
-### 02 / Sales Intelligence Hub
+## 💼 Where I work
 
-**Where are sales and profit coming from—and how do products and regions compare?**
+### Marketing Data Analyst · [Al Farouk Educational Services](https://www.linkedin.com/company/al-faroukedu/)
+**September 2026 — Present**
 
-<a href="https://omarrez2.github.io/projects/sales-intelligence-hub/">
-  <img src="assets/projects/sales.webp" width="100%" alt="Sales Intelligence Hub executive overview: sales, profit, margin, shipping, product and regional performance." />
-</a>
-
-A four-page Power BI experience covering commercial performance, customers, products, regions, and fulfillment. Python and SQL support the preparation and analytical workflow.
-
-`Power BI` `DAX` `SQL Server` `Python` `PBIP / TMDL`
-
-**[Read the case study ↗](https://omarrez2.github.io/projects/sales-intelligence-hub/)** &nbsp; · &nbsp; [Explore repository](https://github.com/OmarRez2/Sales-Intelligence-Hub)
-
----
-
-### 03 / Uber Trips Analytics
-
-**When and where does trip demand concentrate?**
-
-<a href="https://omarrez2.github.io/projects/uber-trips-analytics/">
-  <img src="assets/projects/uber.webp" width="100%" alt="Uber trip analysis dashboard with booking value, distance, duration, time and location analysis." />
-</a>
-
-A five-page Power BI and SQL analysis of demand, booking value, vehicles, routes, time patterns, and trip quality.
-
-`Power BI` `DAX` `SQL Server` `Python`
-
-**[Read the case study ↗](https://omarrez2.github.io/projects/uber-trips-analytics/)** &nbsp; · &nbsp; [Explore repository](https://github.com/OmarRez2/Uber)
-
----
-
-### 04 / Bank Loan Portfolio Analysis
-
-**What do applications, repayments, and loan status reveal about the portfolio?**
-
-<a href="https://omarrez2.github.io/projects/bank-loan-analysis/">
-  <img src="assets/projects/bank-loan.webp" width="100%" alt="Bank loan summary report showing applications, funded amounts, repayments, interest rates and loan status." />
-</a>
-
-A three-page lending portfolio report exploring funding, repayments, borrower characteristics, and loan quality.
-
-`Power BI` `DAX` `SQL Server` `T-SQL`
-
-**[Read the case study ↗](https://omarrez2.github.io/projects/bank-loan-analysis/)** &nbsp; · &nbsp; [Explore repository](https://github.com/OmarRez2/Bank-Loan)
-
-<details>
-<summary><strong>More work / Pizza Sales Performance</strong></summary>
-
-Sales analysis covering product mix, demand patterns, peak periods, and best- and worst-selling products.
-
-[Repository](https://github.com/OmarRez2/Pizza-Sales-Project) · [Case study](https://omarrez2.github.io/projects/pizza-sales-performance/)
-
-</details>
-
-## How I work
-
-<img src="assets/decision-workflow.svg" width="100%" alt="Frame the business question, prepare and validate data, analyze patterns, then communicate insights for decisions." />
-
-**Question → Prepare → Analyze → Communicate**
-
-Start with the decision. Check the data. Explore the patterns. Make the result understandable.
-
-| Focus | Tools and methods |
-| :--- | :--- |
-| Business intelligence | Power BI, DAX, Power Query, data modeling, PBIP / TMDL |
-| Data and analysis | SQL Server, Python, Pandas, Excel, statistical analysis |
-| Marketing analytics | CTR and campaign KPI tracking, course-launch performance, insight reporting |
-| Delivery | Data validation, dashboard design, analytical storytelling, Git |
-
-## Experience
-
-### Marketing Data Analyst · Al Farouk Educational Services
-**September 2026 — Present** · [Company](https://www.linkedin.com/company/al-faroukedu/)
-
-- Analyze marketing performance for educational course launches.
-- Track CTR and related campaign KPIs, and query and prepare marketing data.
-- Apply statistical analysis and communicate insights and recommendations to the marketing team.
+Analyze educational course-launch campaigns, track **CTR and related KPIs**, query and prepare marketing data, and use **statistical analysis** to develop insights and recommendations for the marketing team.
 
 ### Data Analysis Instructor · eYouth
 **April 2026 — Present**
 
-Practical training in data cleaning, exploratory analysis, SQL, Power BI, KPI reporting, and dashboard development.
+Teach practical data cleaning, exploratory analysis, SQL, Power BI, KPI reporting and dashboard development.
 
 <details>
-<summary>Earlier experience and education</summary>
+<summary><strong>🎓 Earlier experience & education</strong></summary>
 
-- **Programming Instructor · Almentor · October 2023–August 2025:** Python, data science, AI fundamentals, and analytical problem-solving through the DECI Initiative.
-- **AI Model Trainer · Alignerr · 2023–2026:** Evaluation of model outputs for accuracy, reasoning, instruction following, and consistency.
-- **AI Model Trainer · Outlier · 2023–2026:** Prompt testing, response comparison, and structured quality feedback.
+- **Programming Instructor · Almentor · October 2023–August 2025:** Python, data science, AI fundamentals and analytical problem-solving through the DECI Initiative.
+- **AI Model Trainer · Alignerr · 2023–2026:** evaluate accuracy, reasoning, instruction following and consistency.
+- **AI Model Trainer · Outlier · 2023–2026:** prompt testing, response comparison and structured quality feedback.
 - **B.Sc. in Computers and Artificial Intelligence · Benha University.**
 
-[More about my background](https://omarrez2.github.io/about/) · [Certificates](https://omarrez2.github.io/certificates/)
+[Explore my certificates ↗](https://omarrez2.github.io/certificates/)
 
 </details>
 
-## Let's connect
+<img src="assets/studio/divider.svg" width="100%" alt="" />
 
-Have a reporting challenge, a Power BI project, or a data role in mind? I'd be happy to talk.
+## 🤝 Let's connect
 
-**[Visit my portfolio ↗](https://omarrez2.github.io/)** &nbsp; · &nbsp;
-[LinkedIn](https://www.linkedin.com/in/omar-rezk-70868b211/) &nbsp; · &nbsp;
-[orezk337@gmail.com](mailto:orezk337@gmail.com)
+<p align="center">
+Have a data question, a Power BI project, or a role in mind?<br />
+<strong>I'd love to hear about it.</strong>
+</p>
 
-<sub>Project dashboards describe their datasets, not claimed business results. Animated artwork is decorative; all essential information is available as text.</sub>
+<p align="center">
+<a href="https://omarrez2.github.io/"><img src="assets/studio/button-portfolio.svg" width="170" alt="View portfolio" /></a>
+<a href="https://www.linkedin.com/in/omar-rezk-70868b211/"><img src="assets/studio/button-linkedin.svg" width="170" alt="LinkedIn" /></a>
+<a href="mailto:orezk337@gmail.com"><img src="assets/studio/button-email.svg" width="170" alt="Email Omar" /></a>
+</p>
+
+<p align="center"><a href="mailto:orezk337@gmail.com">orezk337@gmail.com</a></p>
+
+<img src="assets/studio/footer.svg" width="100%" alt="Good questions deserve clear answers. Let's build something useful with data." />
