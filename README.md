@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://omarrez2.github.io/"><img src="assets/studio/button-portfolio.svg" width="170" alt="View portfolio" /></a>
-  <a href="https://www.linkedin.com/in/omar-rezk-70868b211/"><img src="assets/studio/button-linkedin.svg" width="170" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/omarrezk"><img src="assets/studio/button-kaggle.svg" width="170" alt="Kaggle" /></a>
-  <a href="mailto:orezk337@gmail.com"><img src="assets/studio/button-email.svg" width="170" alt="Email Omar" /></a>
+  <a href="https://omarrez2.github.io/"><img src="assets/studio/button-portfolio.svg" width="140" alt="View portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omar-rezk-70868b211/"><img src="assets/studio/button-linkedin.svg" width="140" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/omarrezk"><img src="assets/studio/button-kaggle.svg" width="140" alt="Kaggle" /></a>
+  <a href="mailto:orezk337@gmail.com"><img src="assets/studio/button-email.svg" width="140" alt="Email Omar" /></a>
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 <img src="assets/studio/divider.svg" width="100%" alt="" />
 
-## 🧑‍💻 A little about me
+## 💡 A little about me
 
-<img src="assets/studio/analyst.svg" align="right" width="240" alt="Animated illustration of SQL queries becoming dashboard insights." />
+<p align="center"><img src="assets/studio/analyst.svg" width="280" alt="Animated illustration of SQL queries becoming dashboard insights." /></p>
 
 I'm **Omar Rezk**, a Data Analyst and BI Developer based in **Cairo, Egypt**. I enjoy finding the story behind the numbers—and making it useful.
 
@@ -135,9 +135,9 @@ Have a data question, a Power BI project, or a role in mind?<br />
 </p>
 
 <p align="center">
-<a href="https://omarrez2.github.io/"><img src="assets/studio/button-portfolio.svg" width="170" alt="View portfolio" /></a>
-<a href="https://www.linkedin.com/in/omar-rezk-70868b211/"><img src="assets/studio/button-linkedin.svg" width="170" alt="LinkedIn" /></a>
-<a href="mailto:orezk337@gmail.com"><img src="assets/studio/button-email.svg" width="170" alt="Email Omar" /></a>
+<a href="https://omarrez2.github.io/"><img src="assets/studio/button-portfolio.svg" width="140" alt="View portfolio" /></a>
+<a href="https://www.linkedin.com/in/omar-rezk-70868b211/"><img src="assets/studio/button-linkedin.svg" width="140" alt="LinkedIn" /></a>
+<a href="mailto:orezk337@gmail.com"><img src="assets/studio/button-email.svg" width="140" alt="Email Omar" /></a>
 </p>
 
 <p align="center"><a href="mailto:orezk337@gmail.com">orezk337@gmail.com</a></p>
