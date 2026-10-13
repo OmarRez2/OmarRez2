@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+<title id="title">Omar Rezk — Marketing Data Analyst and BI Developer</title>
+<desc id="desc">Animated illustrative data paths and signal bars. Currently at Al Farouk Educational Services.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071522"/><stop offset="1" stop-color="#101528"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+<linearGradient id="area" x2="0" y2="1"><stop stop-color="#5eead4" stop-opacity=".2"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern>
+<clipPath id="clip"><rect width="1200" height="480" rx="24"/></clipPath>
+</defs>
+<style>
+.flow{stroke-dasharray:12 18;animation:flow 6s linear infinite}
+.signal{animation:signal 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center bottom}
+.b2{animation-delay:-1s}.b3{animation-delay:-2s}.b4{animation-delay:-3s}
+.trace{stroke-dasharray:650;stroke-dashoffset:0;animation:trace 7s ease-in-out infinite}
+.halo{animation:halo 5s ease-in-out infinite}
+@keyframes flow{to{stroke-dashoffset:-120}}
+@keyframes signal{0%,100%{transform:scaleY(.65)}50%{transform:scaleY(1)}}
+@keyframes trace{0%,8%{stroke-dashoffset:650}55%,100%{stroke-dashoffset:0}}
+@keyframes halo{0%,100%{opacity:.04}50%{opacity:.12}}
+@media(prefers-reduced-motion:reduce){.flow,.signal,.trace,.halo{animation:none}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="1200" height="480" fill="url(#bg)"/><rect width="1200" height="480" fill="url(#grid)"/>
+<circle class="halo" cx="1160" cy="20" r="235" fill="#6366f1" opacity=".08"/>
+<path d="M620 50H800Q845 50 845 95V400H1200" stroke="#5eead4" stroke-opacity=".2" fill="none" class="flow"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="52" y="59" fill="#5eead4" font-size="14" font-weight="700" letter-spacing="3">DATA / BUSINESS INTELLIGENCE</text>
+<text x="48" y="158" fill="#f1f5f9" font-size="76" font-weight="800" letter-spacing="-3">Omar Rezk.</text>
+<text x="52" y="206" fill="#c7d2fe" font-size="25">Marketing Data Analyst &amp; BI Developer</text>
+<rect x="52" y="236" width="70" height="3" rx="1.5" fill="#5eead4"/>
+<text x="52" y="280" fill="#e2e8f0" font-size="24">From business questions</text>
+<text x="52" y="316" fill="#e2e8f0" font-size="24">to clear decisions.</text>
+<circle cx="60" cy="369" r="5" fill="#5eead4"/>
+<text x="76" y="375" fill="#cbd5e1" font-size="17">Currently at Al Farouk Educational Services</text>
+<text x="52" y="435" fill="#94a3b8" font-size="14" letter-spacing="2">POWER BI   /   SQL   /   PYTHON   /   EXCEL</text>
+<g transform="translate(665 88)">
+<rect width="483" height="306" rx="18" fill="#0b1727" stroke="#334155"/>
+<circle cx="23" cy="25" r="4" fill="#5eead4"/><circle cx="38" cy="25" r="4" fill="#818cf8"/><circle cx="53" cy="25" r="4" fill="#475569"/>
+<text x="80" y="30" fill="#cbd5e1" font-size="12" letter-spacing="2">THE ANALYTICS WORKSPACE</text>
+<path d="M0 49H483" stroke="#253348"/>
+<text x="25" y="82" fill="#94a3b8" font-size="11" letter-spacing="2">QUESTION → INSIGHT</text>
+<path d="M25 121H458M25 159H458M25 197H458" stroke="#94a3b8" stroke-opacity=".1"/>
+<path d="M25 202C55 200 70 160 105 170S145 190 180 145S235 163 270 121S320 145 355 101S415 113 458 88V215H25Z" fill="url(#area)"/>
+<path class="trace" d="M25 202C55 200 70 160 105 170S145 190 180 145S235 163 270 121S320 145 355 101S415 113 458 88" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" fill="none"/>
+<rect x="25" y="240" width="94" height="40" rx="8" fill="#112b32"/><text x="42" y="265" fill="#99f6e4" font-size="13">PREPARE</text>
+<rect x="131" y="240" width="94" height="40" rx="8" fill="#20243e"/><text x="149" y="265" fill="#c7d2fe" font-size="13">ANALYZE</text>
+<rect x="237" y="240" width="94" height="40" rx="8" fill="#112b32"/><text x="254" y="265" fill="#99f6e4" font-size="13">EXPLAIN</text>
+<g fill="#5eead4"><rect class="signal" x="369" y="253" width="12" height="27" rx="3"/><rect class="signal b2" x="389" y="235" width="12" height="45" rx="3"/><rect class="signal b3" x="409" y="245" width="12" height="35" rx="3"/><rect class="signal b4" x="429" y="228" width="12" height="52" rx="3"/></g>
+</g>
+<text x="1148" y="435" text-anchor="end" fill="#94a3b8" font-size="11" letter-spacing="1">ILLUSTRATIVE GRAPHIC · NOT LIVE DATA</text>
+</g></g></svg>

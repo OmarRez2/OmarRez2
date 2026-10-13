@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
+<title id="title">From question to decision</title><desc id="desc">Frame the question, prepare and validate data, analyze patterns, communicate insights.</desc>
+<style>.path{stroke-dasharray:7 8;animation:travel 3s linear infinite}@keyframes travel{to{stroke-dashoffset:-60}}@media(prefers-reduced-motion:reduce){.path{animation:none}}</style>
+<rect width="1200" height="160" rx="18" fill="#0b1727"/>
+<path class="path" d="M80 48H1120" stroke="#5eead4" stroke-opacity=".6" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<g transform="translate(30 0)"><circle cx="50" cy="48" r="22" fill="#113138" stroke="#5eead4"/><text x="50" y="54" text-anchor="middle" fill="#99f6e4" font-size="16">01</text><text x="25" y="103" fill="#f1f5f9" font-size="22" font-weight="700">Frame</text><text x="25" y="130" fill="#94a3b8" font-size="16">Define the business question</text></g>
+<g transform="translate(330 0)"><circle cx="50" cy="48" r="22" fill="#113138" stroke="#5eead4"/><text x="50" y="54" text-anchor="middle" fill="#99f6e4" font-size="16">02</text><text x="25" y="103" fill="#f1f5f9" font-size="22" font-weight="700">Prepare</text><text x="25" y="130" fill="#94a3b8" font-size="16">Clean, query and validate</text></g>
+<g transform="translate(630 0)"><circle cx="50" cy="48" r="22" fill="#222840" stroke="#a5b4fc"/><text x="50" y="54" text-anchor="middle" fill="#c7d2fe" font-size="16">03</text><text x="25" y="103" fill="#f1f5f9" font-size="22" font-weight="700">Analyze</text><text x="25" y="130" fill="#94a3b8" font-size="16">Explore patterns and KPIs</text></g>
+<g transform="translate(930 0)"><circle cx="50" cy="48" r="22" fill="#222840" stroke="#a5b4fc"/><text x="50" y="54" text-anchor="middle" fill="#c7d2fe" font-size="16">04</text><text x="25" y="103" fill="#f1f5f9" font-size="22" font-weight="700">Communicate</text><text x="25" y="130" fill="#94a3b8" font-size="16">Explain what matters next</text></g>
+</g></svg>
