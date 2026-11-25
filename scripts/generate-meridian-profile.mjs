@@ -102,7 +102,7 @@ ${shot('meridian-home', 40, 70, 560, 315, 's1')}
 <text x="760" y="128" class="serif" font-size="58" fill="${c.ink}">Meridian</text>
 <text x="762" y="162" class="sans" font-size="17" fill="${c.muted}">WWI Supply Chain Intelligence</text>
 ${facts.map(([a, b], i) => `<g transform="translate(762 ${212 + i * 62})"><circle cx="5" cy="-6" r="4" fill="${i % 2 ? c.glacier : c.brass}"/><text x="22" class="sans" font-size="19" font-weight="600" fill="${c.ink}">${a}</text><text x="22" y="24" class="sans" font-size="15" fill="${c.muted}">${esc(b)}</text></g>`).join('')}
-<text x="762" y="490" class="sans" font-size="15" fill="${c.glacier}">TypeScript · Three.js / GLSL · D3 · Python · SQL Server · Power BI</text>
+<text x="762" y="490" class="sans" font-size="15" fill="${c.glacier}">TypeScript · Three.js · D3 · Python · SQL · Power BI</text>
 <rect class="beam" x="760" y="508" width="120" height="2" fill="${c.brass}"/>`;
     save('meridian', t, svg(W, H, 'Meridian, WWI Supply Chain Intelligence: a bilingual analytics experience with an Analytics Lab and a Decision Simulator, built on 41 months of reconciled records.', body,
       `.float{animation:float 7s ease-in-out infinite}.beam{animation:beam 6s ease-in-out infinite alternate}@keyframes float{50%{transform:translateY(-6px)}}@keyframes beam{to{transform:translateX(280px)}}`));

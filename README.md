@@ -38,7 +38,7 @@ I'm a **Data Analyst and BI Developer in Cairo**. I take messy operational data 
 - **Decision Simulator.** Price, volume, supplier-shock and stock-cover scenarios. Each one shows a profit bridge whose steps add up exactly, a break-even point, sensitivity, and an A/B comparison. Results are presented as scenario arithmetic, not forecasts.
 - **Built for real use.** English and Arabic (RTL), light and dark themes, keyboard support, zero axe-core violations, 81 automated data tests, and performance budgets.
 
-[Live site](https://omarrez2.github.io/meridian-intelligence/) · [Decision Simulator](https://omarrez2.github.io/meridian-intelligence/#/simulator) · [Presentation Mode](https://omarrez2.github.io/meridian-intelligence/#/present) · [Source](https://github.com/OmarRez2/meridian-intelligence)
+[Live site](https://omarrez2.github.io/meridian-intelligence/) · [Decision Simulator](https://omarrez2.github.io/meridian-intelligence/#/simulator) · [Presentation Mode](https://omarrez2.github.io/meridian-intelligence/#/present) · [Source](https://github.com/OmarRez2/meridian-intelligence)<br />
 <sub>TypeScript · Three.js/GLSL · D3 · Python · SQL Server · Power BI · GitHub Actions</sub>
 
 <picture>
