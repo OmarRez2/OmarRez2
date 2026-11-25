@@ -69,13 +69,13 @@ I'm a **Data Analyst and BI Developer in Cairo**. I take messy operational data 
 </td>
 <td width="50%" valign="top">
 <a href="https://omarrez2.github.io/projects/bank-loan-analysis/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/meridian/case-bank-loan-light.svg" /><img src="assets/meridian/case-bank-loan-dark.svg" width="100%" alt="Bank Loan Portfolio: 38,576 loan records across three Power BI pages." /></picture></a>
-<b>Bank Loan Portfolio</b>: applications, funding, repayments and loan quality, with T-SQL validation of every KPI.<br />
+<b>Bank Loan Portfolio</b>: applications, funding, repayments and loan quality, backed by T-SQL KPI and period-comparison queries.<br />
 <a href="https://omarrez2.github.io/projects/bank-loan-analysis/">Case study</a> · <a href="https://github.com/OmarRez2/Bank-Loan">Code</a>
 </td>
 </tr>
 </table>
 
-Also: **[Pizza Sales Performance](https://omarrez2.github.io/projects/pizza-sales-performance/)** covers 48,620 order lines in Power BI and SQL ([code](https://github.com/OmarRez2/Pizza-Sales-Project)). Dashboard figures describe each project's dataset, not claimed business impact.
+Also: **[Pizza Sales Performance](https://omarrez2.github.io/projects/pizza-sales-performance/)** covers 48,620 transaction lines in Power BI and SQL ([code](https://github.com/OmarRez2/Pizza-Sales-Project)). Dashboard figures describe each project's dataset, not claimed business impact.
 
 ## Skills, with the evidence
 
